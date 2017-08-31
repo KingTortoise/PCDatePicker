@@ -10,7 +10,7 @@
 ![手动设置时间.gif](https://github.com/KingTortoise/PCDatePicker/blob/master/gif/%E6%89%8B%E5%8A%A8%E8%AE%BE%E7%BD%AE%E6%97%B6%E9%97%B4.gif)
 
 
-![最大最小时间.gif](http://upload-images.jianshu.io/upload_images/2633493-14588613abf6885c.gif?imageMogr2/auto-orient/strip)
+![最大最小时间.gif](https://github.com/KingTortoise/PCDatePicker/blob/master/gif/%E6%9C%80%E5%A4%A7%E6%9C%80%E5%B0%8F%E6%97%B6%E9%97%B4.gif)
 
 # 相关属性
 ## 常用属性 ##
