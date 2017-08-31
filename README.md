@@ -7,7 +7,7 @@
 ![默认效果.gif](https://github.com/KingTortoise/PCDatePicker/blob/master/gif/%E9%BB%98%E8%AE%A4%E6%95%88%E6%9E%9C.gif)
 
 
-![手动设置时间.gif](http://upload-images.jianshu.io/upload_images/2633493-836385b2acae4448.gif?imageMogr2/auto-orient/strip)
+![手动设置时间.gif](https://github.com/KingTortoise/PCDatePicker/blob/master/gif/%E6%89%8B%E5%8A%A8%E8%AE%BE%E7%BD%AE%E6%97%B6%E9%97%B4.gif)
 
 
 ![最大最小时间.gif](http://upload-images.jianshu.io/upload_images/2633493-14588613abf6885c.gif?imageMogr2/auto-orient/strip)
