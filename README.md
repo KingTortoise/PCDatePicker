@@ -4,7 +4,7 @@
 
 # 效果展示
 
-![默认效果.gif](http://upload-images.jianshu.io/upload_images/2633493-233a160705043cb8.gif?imageMogr2/auto-orient/strip)
+![默认效果.gif](https://github.com/KingTortoise/PCDatePicker/blob/master/gif/%E9%BB%98%E8%AE%A4%E6%95%88%E6%9E%9C.gif)
 
 
 ![手动设置时间.gif](http://upload-images.jianshu.io/upload_images/2633493-836385b2acae4448.gif?imageMogr2/auto-orient/strip)
